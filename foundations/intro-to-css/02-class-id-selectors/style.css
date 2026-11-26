@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+.odd {
+    background-color: lightpink;
+    font-family: verdana, 'DejaVu sans', sans-serif;
+}
+
+#four {
+    background-color: lightgreen;
+    font-weight: bold;
+}
+
+.adjust-text {
+    font-size: 24px;
+}
